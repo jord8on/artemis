@@ -16,3 +16,7 @@
     color: #1761C5;
     padding-bottom: 14px;
 }
+
+html {
+	scroll-behavior: smooth;
+}
