@@ -1,21 +1,6 @@
 /* Customize Hover behavior on Documentation... On hover: gradual increase size; also make all thumbnails the same size */
 
-.article-body img {
-    width: 300px;
-    height: auto;
-    transition: width 1s;
-    padding: 20px 0px;
-}
-.article-body img:hover {
-    width: 110%;
-    transition: width 1s;
-    transition-delay: .25s;
-    cursor: zoom-in;
-}
-.article-body h2 {
-    color: #1761C5;
-    padding-bottom: 14px;
-}
+
 
 /* Floating Back to Top Button HTML & CSS */
 /* Ref: https://codeconvey.com/floating-back-to-top-button-html */
