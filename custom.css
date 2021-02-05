@@ -18,8 +18,8 @@
   }
 .article-content {
     line-height: 1.6;
-    margin: 20px 0;
+    margin: 20px 0 !important;
   }
 .article-header {
-    margin-bottom: 20px;
+    margin-bottom: 20px !important;
   }
