@@ -1,5 +1,4 @@
 /* Customize Hover behavior on Documentation... On hover: gradual increase size; also make all thumbnails the same size */
-
 .article-body img {
     width: 300px;
     height: auto;
@@ -16,6 +15,7 @@
     color: #1761C5;
     padding-bottom: 14px;
   }
+  /* Doesn't seem to be working ➞ Remove spacing beneath Article headers */
 .article-content {
     line-height: 1.6;
     margin: 20px 0 !important;
