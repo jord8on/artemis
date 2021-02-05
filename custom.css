@@ -5,14 +5,21 @@
     height: auto;
     transition: width 1s;
     padding: 20px 0px;
-}
+  }
 .article-body img:hover {
     width: 110%;
     transition: width 1s;
     transition-delay: .25s;
     cursor: zoom-in;
-}
+  }
 .article-body h2 {
     color: #1761C5;
     padding-bottom: 14px;
-}
+  }
+.article-content {
+    line-height: 1.6;
+    margin: 20px 0;
+  }
+.article-header {
+    margin-bottom: 20px;
+  }
